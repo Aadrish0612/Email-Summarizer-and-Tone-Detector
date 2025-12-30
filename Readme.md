@@ -122,7 +122,8 @@ Example response:
 
 ---
 
-##**Architecture Diagram**
+##**System Architecture Diagram**
 
-<img width="2426" height="2711" alt="image" src="https://github.com/user-attachments/assets/836b559f-6f77-420a-a384-5878fa1cd8eb" />
+<img width="1121" height="917" alt="diagram-export-12-31-2025-12_09_58-AM" src="https://github.com/user-attachments/assets/9e00f0ef-2221-400f-a067-3ba2639ff8c7" />
+
 
