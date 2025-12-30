@@ -26,3 +26,4 @@ Thumbs.db
 
 # ---- Logs / misc ----
 *.log
+"Backend/credentials.json" 
