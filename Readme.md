@@ -122,3 +122,7 @@ Example response:
 
 ---
 
+##**Architecture Diagram**
+
+<img width="2426" height="2711" alt="image" src="https://github.com/user-attachments/assets/836b559f-6f77-420a-a384-5878fa1cd8eb" />
+
