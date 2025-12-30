@@ -122,27 +122,3 @@ Example response:
 
 ---
 
-## Deployment Overview
-
-- **Backend**  
-  - Deploy the FastAPI app on a platform like Render, Railway, or Fly.io.  
-  - Configure environment variables (OpenRouter keys, model, site URL) in the hosting dashboard.  
-  - Update CORS settings to allow requests from your deployed frontend URL.
-
-- **Frontend**  
-  - Build the React/Vite app and deploy the static files on Vercel, Netlify, or a similar service.  
-  - Point API URLs in the frontend to the deployed backend’s public endpoints.
-
----
-
-## Security Notes
-
-- Do **not** commit:
-  - Backend `.env`
-  - `token.json`
-  - Any real API keys or access tokens
-- Treat `credentials.json` as sensitive; for public repositories, either ignore it or document how to generate it instead.
-
----
-
-
