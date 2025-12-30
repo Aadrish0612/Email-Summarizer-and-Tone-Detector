@@ -1,0 +1,28 @@
+# ---- Python / Backend ----
+Backend/venv/
+Backend/__pycache__/
+Backend/**/*.pyc
+Backend/.env
+Backend/token.json
+Backend/token*.json
+Backend/sample_codes*.py
+
+# If you want to ignore local credentials file (recommended for public repo):
+# Backend/credentials.json
+
+# ---- Node / Frontend ----
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.vite/
+
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE settings (optional, if you don't want to share them)
+.vscode/
+.idea/
+
+# ---- Logs / misc ----
+*.log

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+
+python-dotenv
+requests
+beautifulsoup4
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
