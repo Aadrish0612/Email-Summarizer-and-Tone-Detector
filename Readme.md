@@ -127,9 +127,17 @@ Example response:
 <img width="1121" height="829" alt="diagram-export-12-31-2025-12_09_58-AM" src="https://github.com/user-attachments/assets/b3c925ef-2f16-4e8d-b6ca-06fb0222a2f0" />
 
 
-## Image of the UI
+## Images of the UI
 
 <img width="1858" height="923" alt="image" src="https://github.com/user-attachments/assets/034273cb-48e5-405e-96ec-839512a769d7" />
+
+<img width="1858" height="936" alt="image" src="https://github.com/user-attachments/assets/19af1be8-2e45-433c-b8ec-ef52cfedb90b" />
+
+<img width="1847" height="921" alt="image" src="https://github.com/user-attachments/assets/0362f79d-1535-42dc-9c6f-7a5bdd8a1cf0" />
+
+
+<img width="1823" height="814" alt="image" src="https://github.com/user-attachments/assets/3376dffe-6b35-4ac4-9ba5-dcc7e89843e0" />
+
 
 
 
