@@ -122,11 +122,14 @@ Example response:
 
 ---
 
-##**System Architecture Diagram**
+## System Architecture Diagram
 
 <img width="1121" height="829" alt="diagram-export-12-31-2025-12_09_58-AM" src="https://github.com/user-attachments/assets/b3c925ef-2f16-4e8d-b6ca-06fb0222a2f0" />
 
 
+## Image of the UI
+
+<img width="1858" height="923" alt="image" src="https://github.com/user-attachments/assets/034273cb-48e5-405e-96ec-839512a769d7" />
 
 
 
